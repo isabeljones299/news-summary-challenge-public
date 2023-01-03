@@ -1,0 +1,10 @@
+#image {
+    margin: 2%;
+    background-color: white;
+
+}
+
+.card-header a {
+    text-decoration: none !important;
+    color: white;
+}
